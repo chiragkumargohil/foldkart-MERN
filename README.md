@@ -12,7 +12,16 @@ This e-commerce website is developed using MERN Stack.
 
 ## Link to the Website
 
-- https://foldkart.onrender.com
+🔗 https://foldkart.onrender.com
+
+📽️ [Highlights - YouTube](https://youtu.be/owG17P4vr4Q)
+
+
+## Tech
+
+- **Client** : React, Material UI, Redux
+- **Server** : Node, Express, Mongoose
+- **Database** : MongoDB
 
 ## Screenshots
 
@@ -22,12 +31,6 @@ This e-commerce website is developed using MERN Stack.
 ![home](./screenshots/cart.png)
 ![home](./screenshots/place_order.png)
 ![home](./screenshots/responsive.png)
-
-## Tech
-
-- **Client** : React, Material UI, Redux
-- **Server** : Node, Express, Mongoose
-- **Database** : MongoDB
 
 ## Installation
 
