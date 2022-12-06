@@ -1,6 +1,42 @@
 # Foldkart - Flipkart Clone Project
 
-I developed a Flipkart Project utilising ReactJS for the front end, NodeJS and ExpressJS for the back end, and MongoDB for the database. In order to provide more features, other libraries like as Redux, Material UI, axios, and others are also used.
+This e-commerce website is developed using MERN Stack.
 
-**Frontend:** ReactJS , Redux, MaterialUI
-**Backend**: MongoDB , ExpressJS , NodeJS
+## Features
+
+- Login / Signup with email, username and password
+- Search items
+- Explore the items and read the detail of an item
+- Add item to the cart and Remove item from the cart
+- Place order from an item or from the cart
+
+## Link to the Website
+
+- https://foldkart.onrender.com
+
+## Screenshots
+
+![home](./screenshots/home.png)
+![home](./screenshots/login.png)
+![home](./screenshots/product.png)
+![home](./screenshots/cart.png)
+![home](./screenshots/place_order.png)
+![home](./screenshots/responsive.png)
+
+## Tech
+
+- **Client** : React, Material UI, Redux
+- **Server** : Node, Express, Mongoose
+- **Database** : MongoDB
+
+## Installation
+
+- Clone the Repository
+- Use below commands for both the folders
+	1. ```npm install```
+	2. ```npm run start```
+
+## Environment Variables
+
+```DB_USERNAME```
+```DB_PASSWORD```
